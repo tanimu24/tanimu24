@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanimu24
 - 👀 I’m interested in Information Technology, Renewable Energy and Electrical Engineering
 - 🌱 I’m currently learning Cyber security
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jimondantanimu@outlook.com
 - ⚡ Fun fact: Love watching Real Madrid
 
